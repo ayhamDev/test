@@ -15,3 +15,6 @@ console.log("diaa was here!!!");
 console.log("news");
 
 console.log("newss 2");
+// this is new branch changes
+const GOAT = 'diaa';
+console.log(GOAT);
