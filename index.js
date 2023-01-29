@@ -10,4 +10,6 @@ const bros = good_boy + better_boy;
 console.log(bros);
 console.log("hello guys :)");
 console.log("GG wp");
-console.log('diaa was here!!!');
+
+console.log("diaa was here!!!");
+console.log("news");
