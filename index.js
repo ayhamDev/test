@@ -13,3 +13,7 @@ console.log("GG wp");
 
 console.log("diaa was here!!!");
 console.log("news");
+
+// this is new branch changes
+const GOAT = 'diaa';
+console.log(GOAT);
